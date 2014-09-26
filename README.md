@@ -1,4 +1,4 @@
-saunaopportunity
+SaunaOpportunity
 ================
 
-The wunderbar #wunderhack sauna thingy
+The wunderbar #wunderhack sauna thingy.
