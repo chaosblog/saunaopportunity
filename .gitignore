@@ -2,3 +2,4 @@
 *.swp
 *.*.swp
 *.bak
+conf/settings.js
